@@ -4,3 +4,4 @@ Why 🤔 ? You ask, Well because I can and also I am most comfortable working wi
 
 # Public Projects
 1. [LowpEngine](https://github.com/vrglab/LowpEngine) Is a Cross-platform C++ based Game Engine i am making that uses C# as it's main game scripting language (Kinda like Unity)
+2. [CLIEngine](https://github.com/vrglab/CLIEngine) Is a C# based command line app handler (makes creating cli based tools easier as it handles the dirty process of command and string handeling)
