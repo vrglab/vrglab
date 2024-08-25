@@ -15,10 +15,12 @@ Hello, I’m Arad Bozorgmehr aka Vrglab, i am a software developer currecntly wo
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
   <img src="https://skillicons.dev/icons?i=typescript"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=angular"/>
   <img src="https://skillicons.dev/icons?i=javascript"/>
   <img src="https://skillicons.dev/icons?i=php"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio"/>
   <img src="https://skillicons.dev/icons?i=docker"/>
   <img src="https://skillicons.dev/icons?i=firebase"/>
   <img src="https://skillicons.dev/icons?i=nodejs"/>
