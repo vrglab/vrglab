@@ -1,5 +1,5 @@
 # Vrglab
-Hello, I’m Arad Bozorgmehr aka Vrglab, i am a software developer currecntly working in germany. I make various types of projects using primarly Java, C# and C/C++. and i do truly mean various, from Games to Rest API's to dev tools and just about any other type of software   
+Hello, I’m Arad Bozorgmehr aka Vrglab, I am a professional Software Developer and Hobbiest Game Designer in germany. I have been making various projects using primarly Java, C# and C/C++ since i was 13. and i do truly mean various, from Games to Rest API's to dev tools and just about any other type of software, including but not limited to Custom Operating Systems and Programing Languages   
 
 ### Skills
 <div align="center">
