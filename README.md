@@ -35,7 +35,6 @@ Hello, I’m Arad Bozorgmehr aka Vrglab, I am a professional Software Developer 
 ### Basic Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrglab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" />
   <img src="https://streak-stats.demolab.com/?user=vrglab&locale=en&mode=daily&hide_border=false&bordr_radius=5" height="150" />
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=vrglab&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&hide_border=false" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrglab&repo=IP-Finder&disable_animations=false&hide_border=false&radius=6"/>
